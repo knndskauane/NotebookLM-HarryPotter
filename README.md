@@ -41,12 +41,12 @@ As principais fontes foram os livros originais, encontrados no seguinte link do 
 
 Aqui estão alguns exemplos de prompts que podem ser reutilizados para aprofundar revisões e estudos sobre o universo de Harry Potter:
 
-"Descreva a evolução do Harry Potter (ou outro personagem) ao longo dos livros."  
-"Quais pistas sobre as Reliquias da Morte (ou outro tema) já apareceram nos livros anteriores?"  
-"Monte uma linha do tempo detalhada dos eventos envolvendo os Horcruxes desde sua criação até sua destruição."  
-"Como funciona a magia de proteção associada ao sacrifício de Lily Potter?"  
-"Quais são as verdadeiras motivações de Voldemort além da busca por poder?"    
-"Explique passo a passo o plano de Dumbledore envolvendo Snape e sua própria morte."
+* "Descreva a evolução do Harry Potter (ou outro personagem) ao longo dos livros."  
+* "Quais pistas sobre as Reliquias da Morte (ou outro tema) já apareceram nos livros anteriores?"  
+* "Monte uma linha do tempo detalhada dos eventos envolvendo os Horcruxes desde sua criação até sua destruição."  
+* "Como funciona a magia de proteção associada ao sacrifício de Lily Potter?"  
+* "Quais são as verdadeiras motivações de Voldemort além da busca por poder?"    
+* "Explique passo a passo o plano de Dumbledore envolvendo Snape e sua própria morte."
 
 ---
 ## 🔗 Acesso ao NotebookLM
